@@ -7,4 +7,8 @@
 - Fear is the mind-killer
 =======
 - "The spice must flow."
+<<<<<<< HEAD
 >>>>>>> 2d0dca0 (H:)
+=======
+- "Fear is the mind-killer."
+>>>>>>> b39269a (I:)
